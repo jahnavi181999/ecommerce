@@ -1,0 +1,12 @@
+.login{
+    margin-top:70px;
+    width:500px;
+    height:500px;
+    justify-content:center;
+    box-sizing: border-box;
+}
+
+.left{
+    margin-top:20px;
+    margin-bottom:20px;
+}
